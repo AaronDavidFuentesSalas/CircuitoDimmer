@@ -27,12 +27,23 @@
 3.Desarrollo
  
  ![image](https://user-images.githubusercontent.com/105386939/179231301-aff63451-325c-423e-8997-24b5caff5f26.png)
+ 
+ https://youtu.be/UYu-4Ac4pg4
 
 4.Conclusiones
 
  * Debemos asegurarnos de que las conexiones esten bien echas haciendo uso de la escala de continuidad en el multimetro ya que al trabajar con corriente alterna podrias causar un daño a nuestros componentes si existe una conexiones mal echa.
  
  * Podemos ver que cuanto mas disminuimos la resistencia del potenciometro el foco se ilumina mas porque el paso de la corriente se hace mayor, este circuito dimmer tambien nos serviria para otros propositos como donde se requiera de un regulador de voltaje.
+ 
+5.Recomendaciones
+
+* Consultar mas a profundidad cuales son los usos mas importantes que se le dan a los componentes usados en el circuito dimmer, para entender cuales son las apliaciones industriales que se le dan.
+
+* Averiguar que significan los numeros que se encuentran en los DIAC, TRIAC y los capacitores para saber siempre si estamos usando lo que necesitamos.
+
+
+
 
                                     
     
